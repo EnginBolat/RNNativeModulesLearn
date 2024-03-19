@@ -1,0 +1,1 @@
+export {default as AlertIOS} from './_layout';
